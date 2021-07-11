@@ -14,6 +14,5 @@ Preview || Links || Code
 2. [404 Type 2](https://imniladri.github.io/Custom404Page/404%20Type%202/404.html)
 3. [404 Type 3](https://imniladri.github.io/Custom404Page/404%20Type%203/404.html)
 4. [404 Type 4](https://imniladri.github.io/Custom404Page/404%20Type%204/404.html)
-5. [404 Type 5](https://imniladri.github.io/Custom404Page/404%20Type%205/404.html)
 
 _-- More Coming Soon --_
